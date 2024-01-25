@@ -1,0 +1,6 @@
+.show {
+    display: flex;
+    .left, .right {
+        flex: 1;
+    }
+}
